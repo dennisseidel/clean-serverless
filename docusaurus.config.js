@@ -30,13 +30,9 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
+              label: 'Sources & Contributions',
+              to: 'docs/sources',
+            }
           ],
         },
         {
@@ -44,12 +40,8 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
+              href: 'https://stackoverflow.com/questions/tagged/clean-serverless',
+            }
           ],
         },
         {
@@ -58,14 +50,6 @@ module.exports = {
             {
               label: 'Blog',
               to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
